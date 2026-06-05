@@ -18,6 +18,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀
 ```
 <!-- https://emojicombos.com/sigma -->
-
-
-is my text centered
